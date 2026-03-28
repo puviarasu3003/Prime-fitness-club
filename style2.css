@@ -252,6 +252,7 @@ span {
   .contact-space {
     flex-direction: column;
     margin-left: -30px;
+    width: 350px;
   }
   .three {
     margin-left: 150px;
